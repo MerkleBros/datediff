@@ -2,6 +2,8 @@
 A small Bash wrapper using Python's `date` library to find the days between two dates.
 
 #### Usage
+Requires a `Python` installation.
+
 Provide two dates as `"YYYY, MM, DD"` where:
 - `YYYY` is the four digit year
 - `MM` the two digit month
